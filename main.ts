@@ -21,7 +21,7 @@ while (option !== 9) {
             console.log(control.printpermitida());
             break;
         case 2:
-            control.turbo(); // Assuming turbo is a method of Controle class
+            control.turbo(); 
             break;
         default:
             console.log('Opção inválida. Tente novamente.');
